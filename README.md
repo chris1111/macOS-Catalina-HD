@@ -3,8 +3,6 @@
 - This is to test macOS
 - Buy a mac after testing macOS
 
-
-
 ![Icon](https://user-images.githubusercontent.com/6248794/75631689-0fcc0280-5bc3-11ea-9dd1-c46271f6c60e.png)
 
 1- This program works in real Mac or Hackintosh.
@@ -45,5 +43,5 @@ Credit: Developers:
 
 ## Follow every steps in the Video 
 #                      ⇩
-[![Modular Image Creation](https://user-images.githubusercontent.com/6248794/75631938-22dfd200-5bc5-11ea-9afa-9a5bf2bbd0c8.png)](https://youtu.be/GoxZI7PtRZg)
+[![Modular Image Creation](https://user-images.githubusercontent.com/6248794/75631938-22dfd200-5bc5-11ea-9afa-9a5bf2bbd0c8.png)](https://youtu.be/FrFgjDOsCDw)
 
