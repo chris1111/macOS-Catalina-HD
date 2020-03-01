@@ -27,8 +27,8 @@ The Clover Post Installer is included for Hackintosh user to make the Volume (SS
 
 
 ### macOS-Catalina-HD
-Credit: chris1111 and Tester: 
-- arcade33, emax31
+Credit: chris1111 
+- Tester: arcade33, emax31
 
 ### AutoDMG
 Credit: MagerValp Copyright (c) 2013-2017 Per Olofsson, University of 
