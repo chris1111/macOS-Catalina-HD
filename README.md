@@ -45,5 +45,5 @@ Credit: Developers:
 
 ## Follow every steps in the Video 
 #                      ⇩
-[![Modular Image Creation](https://i25.servimg.com/u/f25/18/50/18/69/captur86.png)](https://youtu.be/GoxZI7PtRZg)
+[![Modular Image Creation](https://user-images.githubusercontent.com/6248794/75631938-22dfd200-5bc5-11ea-9afa-9a5bf2bbd0c8.png)](https://youtu.be/GoxZI7PtRZg)
 
